@@ -10,5 +10,5 @@ test('creates an Employee object, checks its values', () => {
     expect(employee.getName()).toEqual(expect.any(String));
     expect(employee.getID()).toEqual(expect.any(String));
     expect(employee.getEmail()).toEqual(expect.any(String));
-    expect(employee.getRole()).toEqual(expect.any(String));
+    expect(employee.getRole()).toBe('Employee');
 })
