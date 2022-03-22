@@ -1,0 +1,25 @@
+{
+  "name": "hw10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAltoidian/Team_Portfolio_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheAltoidian/Team_Portfolio_Generator/issues"
+  },
+  "homepage": "https://github.com/TheAltoidian/Team_Portfolio_Generator#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
